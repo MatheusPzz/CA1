@@ -11,22 +11,22 @@ SVG github icon:
 ## Requirement Checklist
 
 1. Home page
-    1. Show profile photo: With atleast 5dp separation from the layout
-    2. Your Details: horizontally centered in layout
-        1. Name
-        2. Course
-        3. Github Icon (SVG Vector) and username
-    3. Four buttons — Education, Skills, Achievements and Exit
-        1. vertically stacked
-        2. same size
-        3. separated vertically by atleast 5dp
-        4. Education, Skills, Achievements take to new page
-        5. Exit should close the app
-    4. Copyright text at bottom:
-        1. Text: (c) 2023 Your name. All rights reserved.
-        2. has a small font size
+   X 1. Show profile photo: With atleast 5dp separation from the layout
+   X 2. Your Details: horizontally centered in layout
+    X    1. Name
+     X   2. Course
+     X   3. Github Icon (SVG Vector) and username
+   X 3. Four buttons — Education, Skills, Achievements and Exit
+    X    1. vertically stacked
+     X   2. same size
+      X  3. separated vertically by atleast 5dp
+      X  4. Education, Skills, Achievements take to new page
+      X  5. Exit should close the app
+  X  4. Copyright text at bottom:
+   X     1. Text: (c) 2023 Your name. All rights reserved.
+    X    2. has a small font size
         3. has dark gray color
-        4. has a top padding 10dp with a top gray border of 1dp (to separate it out from the main content)
+     Just padding   4. has a top padding 10dp with a top gray border of 1dp (to separate it out from the main content)
 2. Education, Skills, and Achievement pages contain:
     1. title row: not scrollable, dark bg, light icon and text, horizontally centered
     2. content: scrollable
